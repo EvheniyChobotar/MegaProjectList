@@ -1,8 +1,15 @@
-package Chobotar.EV.main;
+package ChobotarEV.Main;
+
+import ChobotarEV.ClassicAlgorithms.*;
+import ChobotarEV.Numbers.*;
 
 public class Main {
 
     public static void main(String[] args) {
+//////////////////////////
+////NUMBERS///////////////
+//////////////////////////        
+
 //        new PItoTheNthDigit(9);
 //        System.out.print("Fibonacci sequence: ");       new FibonacciSequence(10);
 //        System.out.print("\nPrime Factorization: ");    new PrimeFactorization(10);
@@ -18,6 +25,15 @@ public class Main {
 //        System.out.print("\nHappy Numbers:\n");         new HappyNumbers(12);
 //        System.out.print("\nCoin Flip Simulation:\n");  new CoinFlipSimulation(12);
 //        System.out.print("\nFast Exponentiation:\n");         new FastExponentiation(2,10);
+
+//////////////////////////
+////CLASSIC ALGORITHMS////
+//////////////////////////
+
+//        System.out.println("Collatz Conjecture: "); new CollatzConjecture(27);
+//        System.out.println("Sorting: ");            new Sorting("merge",new int[]{1,5,6,7,2,6,4,57,4,1});
+//        System.out.println("Sieve of Eratosthenes");           new SieveOfEratosthenes();
+        System.out.println("Sieve of Eratosthenes");           new SieveOfEratosthenes();
         
     }
     

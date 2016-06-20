@@ -1,4 +1,4 @@
-package Chobotar.EV.main;
+package ChobotarEV.Numbers;
 
 import java.util.Scanner;
 

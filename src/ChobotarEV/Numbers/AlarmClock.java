@@ -1,4 +1,4 @@
-package Chobotar.EV.main;
+package ChobotarEV.Numbers;
 
 import java.applet.Applet;
 import java.applet.AudioClip;

@@ -1,4 +1,4 @@
-package Chobotar.EV.main;
+package ChobotarEV.Numbers;
 /*
 A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
 */

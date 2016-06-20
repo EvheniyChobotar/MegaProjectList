@@ -1,4 +1,4 @@
-package Chobotar.EV.main;
+package ChobotarEV.Numbers;
 /*
 Have the user enter a number and find all Prime Factors (if there are any) and display them.
 */
